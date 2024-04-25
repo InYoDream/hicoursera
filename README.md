@@ -1,5 +1,4 @@
 # hicoursera
-this repository contains all my solutions for the JOHNS HOPKINS we developement course assignments . 
+this repository contains all my solutions for the JOHNS HOPKINS web developement course assignments . 
 
-Yours sincerely,
-ABHISHEK KOTHIYAL
+The assignments had cleared all my basics to approach for coding websites . 
